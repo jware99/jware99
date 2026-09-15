@@ -13,10 +13,10 @@ I'm a Machine Learning major at Brigham Young University, building software that
 
 ### 🚀 Featured Projects
 
-**[RescueAI](https://github.com/jware99/rescueai)** — 1st Place, BYU CS & Mathematics Hackathon
+**RescueAI** — 1st Place, BYU CS & Mathematics Hackathon
 A search-and-rescue system combining live drone video/GPS telemetry, a computer vision pipeline that identifies a missing person from a description, and a routing layer that fuses terrain data with the detected location to compute the fastest safe path. Validated in a live field test in mountain terrain.
 
-**[First Dolla](https://github.com/jware99/first-dolla)** — 1st Place, AI Builder Day Hackathon
+**First Dolla** — 1st Place, AI Builder Day Hackathon
 An autonomous AI go-to-market agent that takes a business from $0 to its first payment — automating market research, lead generation, and outreach, backed by a persistent memory layer ("Business Brain") that learns which strategies convert.
 
 ---
